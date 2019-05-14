@@ -1,0 +1,15 @@
+{
+  "name": "begy-bot",
+  "version": "1.0.0",
+  "description": "begy bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "okokokrip",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "djs-commands": "^1.2.2"
+  }
+}
